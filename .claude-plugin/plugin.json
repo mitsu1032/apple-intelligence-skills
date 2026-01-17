@@ -1,0 +1,12 @@
+{
+  "name": "apple-intelligence-skills",
+  "description": "Apple Intelligence / Foundation Models開発スキル集（Apple公式ドキュメント準拠）",
+  "version": "1.0.0",
+  "author": {
+    "name": "mitsu1032"
+  },
+  "homepage": "https://github.com/mitsu1032/apple-intelligence-skills",
+  "repository": "https://github.com/mitsu1032/apple-intelligence-skills",
+  "license": "MIT",
+  "keywords": ["apple-intelligence", "foundation-models", "ios", "swift", "swiftui", "llm", "on-device-ai"]
+}

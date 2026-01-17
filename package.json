@@ -1,0 +1,15 @@
+{
+  "name": "apple-intelligence-skills-tests",
+  "version": "1.0.0",
+  "description": "Tests for apple-intelligence-skills Claude Code plugin",
+  "scripts": {
+    "build": "tsc",
+    "test": "tsc && node dist/run-tests.js",
+    "test:watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "private": true
+}
