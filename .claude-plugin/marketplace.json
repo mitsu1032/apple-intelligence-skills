@@ -11,7 +11,7 @@
     {
       "name": "apple-intelligence-skills",
       "description": "Apple Intelligence / Foundation Models開発スキル集（Apple公式ドキュメント準拠）",
-      "source": ".",
+      "source": "./apple-intelligence-skills",
       "version": "1.0.0"
     }
   ]
