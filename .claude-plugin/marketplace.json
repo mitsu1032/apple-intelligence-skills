@@ -1,0 +1,11 @@
+{
+  "name": "apple-intelligence-skills",
+  "description": "Apple Intelligence / Foundation Models開発スキル集",
+  "plugins": [
+    {
+      "name": "apple-intelligence-skills",
+      "description": "Apple Intelligence / Foundation Models開発スキル集（Apple公式ドキュメント準拠）",
+      "path": "."
+    }
+  ]
+}
