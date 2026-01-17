@@ -1,11 +1,18 @@
 {
   "name": "apple-intelligence-skills",
-  "description": "Apple Intelligence / Foundation Models開発スキル集",
+  "owner": {
+    "name": "mitsu1032"
+  },
+  "metadata": {
+    "description": "Apple Intelligence / Foundation Models開発スキル集",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "apple-intelligence-skills",
       "description": "Apple Intelligence / Foundation Models開発スキル集（Apple公式ドキュメント準拠）",
-      "path": "."
+      "source": ".",
+      "version": "1.0.0"
     }
   ]
 }
